@@ -100,9 +100,6 @@ nav li a {
     font-size: 15px;
 }
 
-/* Ваши текущие стили остаются неизменными */
-
-
 
 .overlay {
     display: none;
@@ -152,8 +149,8 @@ nav li a {
 .popup-container h3 {
     color: #000000;
     margin-bottom: 20px;
-    font-family: 'Arial', sans-serif; /* Измените шрифт */
-    font-size: 24px; /* Измените размер текста */
+    font-family: 'Arial', sans-serif; 
+    font-size: 24px; 
 }
 
 .popup-container form label {
